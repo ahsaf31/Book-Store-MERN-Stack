@@ -1,2 +1,2 @@
-# Book-Store-Project---MERN
+# Book-Store-MERN-Stack
 MERN Project
