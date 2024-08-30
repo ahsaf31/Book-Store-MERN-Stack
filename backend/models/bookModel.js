@@ -17,5 +17,5 @@ const bookSchema =mongoose.Schema(
 
     }
 );
-
+ 
 export const Book = mongoose.model('Cat',bookSchema);
