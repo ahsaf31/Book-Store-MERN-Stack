@@ -62,4 +62,4 @@ const ShowBook = () => {
     </div>
   )}
 
-export default ShowBook
+export default ShowBook;
